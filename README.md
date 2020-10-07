@@ -6,26 +6,10 @@ CT Group of Institutions, Jalandhar, collage that is established in 1997
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://chandartiwari3.wixsite.com/site)
 
 ## USER INTERFACE REQUIREMNTS
-➢ Main Screen:
-Main Screen shows the menu list (syllabus, prospectus, website) and collage
-infracture.
-
-➢ event Screen:
-This Page shows the events that happened in collage
-
-➢ Contact screen:
- This page shows the other branches of ct group and its contact information
- 
-➢ About screen:
-This screen shows the about the institutions and its social links
-
-➢ Bottom tab screen:
-This tab use to navigate between screens and it has logo with textUSER INTERFACE REQUIREMNTS
 
 ➢ Main Screen:
-Main Screen shows the menu list (syllabus, prospectus, website) and collage
+Main Screen shows the menu list (syllabus, prospectus, website) and collage infracture
 
-infracture.
 ➢ event Screen:
 This Page shows the events that happened in collage
 
