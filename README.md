@@ -1,7 +1,7 @@
 # ct-group react app
 CT Group of Institutions, Jalandhar, collage that is established in 1997
 
-  ![demo](app-data/IMG-2.gif)               ![demo](app-data/IMG-1.gif)
+  ![demo](screen shoot/tab-min.gif)               ![demo](screen shoot/contact.gif)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://chandartiwari3.wixsite.com/site)
 
