@@ -10,15 +10,30 @@ all movies will show on the home screen after added click any movie title to vie
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://chandartiwari3.wixsite.com/site)
 
-## features
-- stack navigation
-- react state
-- form input 
-- validation of form
-- star rating 
-- keyboard avoiding view 
-- floating add button 
-
+## USER INTERFACE REQUIREMNTS
+➢ Main Screen:
+Main Screen shows the menu list (syllabus, prospectus, website) and collage
+infracture.
+➢ event Screen:
+This Page shows the events that happened in collage.
+➢ Contact screen:
+ This page shows the other branches of ct group and its contact information.
+➢ About screen:
+This screen shows the about the institutions and its social links.
+➢ Bottom tab screen:
+This tab use to navigate between screens and it has logo with textUSER INTERFACE REQUIREMNTS
+➢ Main Screen:
+Main Screen shows the menu list (syllabus, prospectus, website) and collage
+infracture.
+➢ event Screen:
+This Page shows the events that happened in collage.
+➢ Contact screen:
+ This page shows the other branches of ct group and its contact information.
+➢ About screen:
+This screen shows the about the institutions and its social links.
+➢ Bottom tab screen:
+ This tab use to navigate between screens and it has logo with text.
+ 
 ### Tech
 
 Dillinger uses a number of open source projects to work properly:
